@@ -97,11 +97,10 @@ flowchart TD
 ### 2. 克隆项目
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
-cd <YOUR_REPOSITORY>
+git clone https://github.com/huahaizo/myagent.git
+cd myagent
 ```
 
-> 将 `<YOUR_USERNAME>` 和 `<YOUR_REPOSITORY>` 替换为你实际的 GitHub 用户名与仓库名。
 
 ### 3. 创建虚拟环境
 
