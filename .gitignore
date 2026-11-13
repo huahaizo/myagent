@@ -1,0 +1,34 @@
+
+# API 密钥
+.env
+.env.*
+!.env.example
+
+# 聊天记录
+history/
+
+# 日志
+logs/
+
+# 用户工作区
+workspace/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 本地知识库
+knowledge_db/
+chroma_db/
