@@ -26,15 +26,6 @@
 > [!NOTE]
 > 本项目仍在持续开发中。当前主要面向 Windows + Python 3.11 环境；部分模块、配置方式及依赖版本请以仓库实际代码为准。
 
-## 📸 界面预览
-
-<!-- 上传真实截图到 docs/images/ 后，取消下一行注释并按需调整文件名。 -->
-<!-- ![My Agent 桌面界面](docs/images/desktop-preview.png) -->
-
-My Agent 使用 CustomTkinter 构建桌面聊天界面，支持历史会话切换、Markdown 消息展示、文本选择、代码阅读和文件操作确认弹窗。
-
-> **欢迎贡献截图：** 将实际运行截图放入 `docs/images/desktop-preview.png`，再启用上面的图片链接。请先遮盖 API Key、个人路径、聊天隐私等敏感信息。
-
 ## ✨ 核心特性
 
 | 能力 | 说明 |
